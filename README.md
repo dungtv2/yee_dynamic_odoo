@@ -1,0 +1,1 @@
+# yee_dynamic_odoo
